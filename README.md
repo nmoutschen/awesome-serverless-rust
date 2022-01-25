@@ -14,6 +14,7 @@ This is a curated list of resources for using Rust with serverless technologies.
 ## 🧑‍🏫 Workshops
 
 * [Rust Adventure](https://rustadventure.dev/deploying-rust-on-aws-lambda-with-cdk)
+* [fettblog: Serverless Rust](https://fettblog.eu/slides/serverless-rust/) - Slides, videos, links, and examples
 
 ## 💻 Samples
 
