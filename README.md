@@ -21,3 +21,4 @@ This is a curated list of resources for using Rust with serverless technologies.
 * [AWS Serverless Rust Demo](https://github.com/aws-samples/serverless-rust-demo)
 * [AWS Lambda Adapter](https://github.com/aws-samples/aws-lambda-adapter) - Adapter to run HTTP servers in AWS Lambda
 * [Project doorbell](https://github.com/ymwjbxxq/rust_doorbell)
+* [Dilbert comic feed](https://github.com/mlafeldt/dilbert-feed)
