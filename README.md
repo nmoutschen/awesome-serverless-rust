@@ -10,6 +10,7 @@ This is a curated list of resources for using Rust with serverless technologies.
 * [Rust SDK](https://github.com/awslabs/aws-sdk-rust) - Official AWS SDK for Rust
 * [workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * [aws_lambda_events](https://github.com/LegNeato/aws-lambda-events) - This crate provides strongly-typed AWS Lambda event structs in Rust.
+* [shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command 
 
 ## 🧑‍🏫 Workshops
 
